@@ -157,26 +157,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Major kudos to the ultimate multitasker! Your fitness journey inspires me daily, your fashion picks are drool-worthy! Keep being incredible.",
+    name: "Shubham Goswami",
+    designation: "Junior Cloud Engineer",
+    company: "Coforge",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I'm constantly amazed by your ability to effortlessly switch between fitness, fashion, and video editing. You're a true inspiration!",
+    name: "Mayank Singh Shishodia",
+    designation: "Data Science Specialist",
+    company: "IIT Madras",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Your fitness journey, fashion expertise, and video editing skills make you a true inspiration. Thank you for being you!",
+    name: "Chiranjeev Thapliyal",
+    designation: "Software Developer",
+    company: "Coinswitch",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
