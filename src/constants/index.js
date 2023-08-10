@@ -122,6 +122,7 @@ const experiences = [
     icon: youtube,
     iconBg: "#383E56",
     // date: "March 2020 - April 2021",
+    link:"https://www.youtube.com/@saumyar15",
     points: [
       "I develop youtube Vlogs and Shorts related to fitness.",
       "Each bite-sized video is packed with effective workouts, expert tips, and the positive vibes we all need to conquer our goals together.",
@@ -134,6 +135,7 @@ const experiences = [
     icon: instagram,
     iconBg: "#E6DEDD",
     // date: "Jan 2021 - Feb 2022",
+    link:"https://www.instagram.com/s.a.u.m.y.a_r.a.i/",
     points: [
       "From fashion to travel, self-care to inspiration, my Instagram is your window into a world of positivity.",
       "Each post is a snapshot of life's beauty and a celebration of my journey.",
@@ -146,6 +148,7 @@ const experiences = [
     icon: linkedin,
     iconBg: "#383E56",
     // date: "Jan 2022 - Jan 2023",
+    link: "https://www.linkedin.com/in/saumya-rai-192619184/",
     points: [
       "If you have a project, an idea, or just want to geek out over tech, let's connect!",
       "From setting up the store to handling asynchronous actions, I can guide you through the crucial aspects of modern web development.",
