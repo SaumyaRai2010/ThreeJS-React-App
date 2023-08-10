@@ -17,12 +17,17 @@ import {
   docker,
   meta,
   starbucks,
+  youtube,
   tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  instagram,
+  linkedin,
+  premierpro,
+  photoshop
 } from "../assets";
 
 export const navLinks = [
@@ -93,80 +98,60 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
     name: "Three JS",
     icon: threejs,
+  },
+  {
+    name: "premierpro",
+    icon: premierpro,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+    name: "photoshop",
+    icon: photoshop,
+  }
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Content Creator",
+    company_name: "Youtube",
+    icon: youtube,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    // date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I develop youtube Vlogs and Shorts related to fitness.",
+      "Each bite-sized video is packed with effective workouts, expert tips, and the positive vibes we all need to conquer our goals together.",
+      "Comment, share, and tag your workout buddies—it's all about the power of unity.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Not Your Regular Influencer",
+    company_name: "Instagram",
+    icon: instagram,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    // date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "From fashion to travel, self-care to inspiration, my Instagram is your window into a world of positivity.",
+      "Each post is a snapshot of life's beauty and a celebration of my journey.",
+      "Why the love affair with Reels? Because it's more than just a trend—it's an art form that lets us pack a punch of creativity in just a few seconds."
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Software Developer",
+    company_name: "Linkedin",
+    icon: linkedin,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    // date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "If you have a project, an idea, or just want to geek out over tech, let's connect!",
+      "From setting up the store to handling asynchronous actions, I can guide you through the crucial aspects of modern web development.",
+      "I've developed robust APIs and microservices that power the magic you see on the frontend."
     ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  }
 ];
 
 const testimonials = [
